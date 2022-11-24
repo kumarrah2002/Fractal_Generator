@@ -1,4 +1,5 @@
-# Mandelbrot and Julia Fractal Generator using Python 
+# Mandelbrot and Julia Fractal Generator using Python</font>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83566650/203684214-d9ec6ea9-5540-4345-bb76-33fad24df256.png" height="240" width="450" >
 </p>
