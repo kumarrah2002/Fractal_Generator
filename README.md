@@ -8,7 +8,10 @@
 Follow the steps in the mandelbrotGeneration and juliaGeneration files to learn how this works and create your own in the mandelbrotGIF file
 ### The files included are:
 <ul style=“list-style-type:circle”>
-<br/><li><i>mandelbrotGeneration - Create your own Mandelbrot Fractal using the CPU and GPU in Python!</li>
-<br/><li><i>juliaGeneration - Create your own Julia Fractal using the CPU and create a Julia GIF using the GPU in Python!</li>
-<br/><li><i>mandelbrotGIF - Create your own Mandelbrot GIF using the same technique used in juliaGeneration!</li>
+<br/><li><i>mandelbrotGeneration</i> - Create your own Mandelbrot Fractal using the CPU and GPU in Python!</li>
+<br/><li><i>juliaGeneration</i> - Create your own Julia Fractal using the CPU and create a Julia GIF using the GPU in Python!</li>
+<br/><li><i>mandelbrotGIF</i> - Create your own Mandelbrot GIF using the same technique used in juliaGeneration!</li>
+<br/><li><i>mandelbrot.gif</i> - Example GIF File of Mandelbrot Fractal</li>
+<br/><li><i>julia.gif</i> - Example GIF File of Julia Fractal</li>
+
 </ul>
